@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+
 case ARGV[0]
 when '-A'
 	opt=1
